@@ -1,0 +1,2 @@
+esse é um projeto de estudo de tratamento de dados em tempo real .
+é isso 
